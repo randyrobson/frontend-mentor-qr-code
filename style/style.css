@@ -34,7 +34,7 @@ body {
 }
 
 #imgqrcode {
-    background-image: url(../images/image-qr-code.png);
+    background-image: url(../img/image-qr-code.png);
     width: 320px;
     height: 320px;
     border-radius: 15px;
